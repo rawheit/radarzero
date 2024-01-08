@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating ui components
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on none rn
-- 📫 How to reach me ......
+- 📫 How to reach me rohitbhatnagar52@gmail.com
 
 <!---
 radarzero/radarzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
