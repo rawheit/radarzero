@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radarzero
-- 👀 I’m interested in Automation in genral
+- 👀 I’m interested in Web Automation
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on none rn
 - 📫 How to reach me rohitbhatnagar52@gmail.com
